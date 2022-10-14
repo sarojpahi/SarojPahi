@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saroj Kumar Pahi</h1>
-<h3 align="center">A passionate and enthusiastic full-stack web developer from India</h3>
+<h3 align="center">A passionate and enthusiastic Full-Stack Web Developer from India</h3>
 <img align="right" alt="coding" widht="250" height="250" src="https://user-images.githubusercontent.com/107534043/195840428-4f5172f2-0021-4093-99e7-5015b64b6375.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarojpahi&label=Profile%20views&color=0e75b6&style=flat" alt="sarojpahi" /> </p>
 
