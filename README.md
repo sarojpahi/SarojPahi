@@ -10,7 +10,7 @@
 - 💬 Ask me about **ReactJS, NodeJS, MongoDB, Games**
 
 - 📫 How to reach me **sarojpahi@gmail.com**
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Github Achievements:</h3>
 <p align="left">
         <a href="https://github.com/ryo-ma/github-profile-trophy"
           ><img
