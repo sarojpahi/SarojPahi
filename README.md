@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Saroj Kumar Pahi</h1>
 <h3 align="center">A passionate and enthusiastic full-stack web developer from India</h3>
-<img align="right" alt="coding" widht="200" height="200" src="https://user-images.githubusercontent.com/107534043/195840428-4f5172f2-0021-4093-99e7-5015b64b6375.gif">
+<img align="right" alt="coding" widht="250" height="250" src="https://user-images.githubusercontent.com/107534043/195840428-4f5172f2-0021-4093-99e7-5015b64b6375.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarojpahi&label=Profile%20views&color=0e75b6&style=flat" alt="sarojpahi" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, Express, MongoDB**
+- 🌱 I’m currently learning ➺ **NodeJS, Express, MongoDB**
 
-- 👨‍💻 All of my projects are available at [sarojpahi.github.io](sarojpahi.github.io)
+- 👨‍💻 Take a look at my projects ➺ [sarojpahi.github.io](https://sarojpahi.github.io/)
 
-- 💬 Ask me about **ReactJS, NodeJS, MongoDB, Games**
+- 💬 Ask me about ➺ **ReactJS, NodeJS, MongoDB, Games**
 
-- 📫 How to reach me **sarojpahi@gmail.com**
+- 📫 How to reach me ➺ **sarojpahi@gmail.com**
+  
+- ⚡ Fun fact ➺ **Tomato is a fruit**
+
+
 <h3 align="left">Github Achievements:</h3>
 <p align="left">
         <a href="https://github.com/ryo-ma/github-profile-trophy"
