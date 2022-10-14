@@ -11,8 +11,10 @@
 
 - 📫 How to reach me ➺ **sarojpahi@gmail.com**
   
-- ⚡ Fun fact ➺ **Tomato is a fruit**
 - 📝 Here is my resume ➺ [Resume](https://github.com/sarojpahi/SarojPahi/files/9787005/cv.pdf)
+  
+- ⚡ Fun fact ➺ **Tomato is a fruit**
+
 <h3 align="left">Github Achievements:</h3>
 <p align="left">
         <a href="https://github.com/ryo-ma/github-profile-trophy"
