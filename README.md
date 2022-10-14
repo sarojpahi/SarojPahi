@@ -210,6 +210,6 @@
         </a>
       </p>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarojpahi&theme=midnight-purple" alt="sarojpahi" width="100%" /></p>
-      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarojpahi&show_icons=true&locale=en&theme=nord" alt="sarojpahi" height="200" width="50%" /><img src="https://github-readme-stats.vercel.app/api?username=sarojpahi&show_icons=true&locale=en&theme=nord" alt="sarojpahi" height="200" width="50%" /></p>
+      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarojpahi&show_icons=true&locale=en&theme=nord" alt="sarojpahi" height="200" width="40%" /><img src="https://github-readme-stats.vercel.app/api?username=sarojpahi&show_icons=true&locale=en&theme=nord" alt="sarojpahi" height="200" width="60%" /></p>
 
 
