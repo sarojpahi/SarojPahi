@@ -209,8 +209,8 @@
           />
         </a>
       </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarojpahi&show_icons=true&locale=en&layout=compact" alt="sarojpahi" /></p>
+<div style="display:"flex";flex-direction:"column""><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarojpahi&show_icons=true&locale=en&theme=nord" alt="sarojpahi" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=sarojpahi&show_icons=true&locale=en&theme=nord" alt="sarojpahi" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sarojpahi&theme=nord" alt="sarojpahi" /></p></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarojpahi&show_icons=true&locale=en" alt="sarojpahi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarojpahi&" alt="sarojpahi" /></p>
