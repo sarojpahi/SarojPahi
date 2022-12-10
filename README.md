@@ -25,6 +25,15 @@
       </p>
       <h3 align="left">Connect with me:</h3>
       <p align="left">
+  <a href="https://www.linkedin.com/in/sarojpahi" target="blank"
+          ><img
+            align="center"
+            src="https://user-images.githubusercontent.com/107534043/206854011-a2b5bc39-5cfb-4928-a363-97622ca1784e.png"
+            alt="sarojpahi"
+            height="40"
+            width="40"
+            style="object-fit: contain"
+        /></a>
         <a href="https://codesandbox.com/sarojpahi" target="blank"
           ><img
             align="center"
