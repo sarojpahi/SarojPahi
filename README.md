@@ -3,11 +3,11 @@
 <img align="right" alt="coding" widht="200" height="300" src="https://user-images.githubusercontent.com/107534043/195840428-4f5172f2-0021-4093-99e7-5015b64b6375.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarojpahi&label=Profile%20views&color=0e75b6&style=flat" alt="sarojpahi" /> </p>
 
-- 🌱 I’m currently learning ➺ **NodeJS, Express, MongoDB, Data Structures and Algorithms**
+- 🌱 I’m currently learning ➺ **NextJs, Graphql, Tailwind, Data Structures and Algorithms**
 
 - 👨‍💻 Take a look at my projects ➺ [sarojpahi.github.io](https://sarojpahi.github.io/)
 
-- 💬 Ask me about ➺ **ReactJS, NodeJS, MongoDB, Games, Data Structures and Algorithms**
+- 💬 Ask me about ➺ **React, NodeJS, MongoDB, Games, Data Structures and Algorithms**
 
 - 📫 How to reach me ➺ **sarojpahi@gmail.com**
   
